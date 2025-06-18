@@ -2,5 +2,5 @@
 - 😎 Please check [my personal website](https://www.justype.net), it is pretty cool.
 - 👀 I’m interested in mobile app development and bioinformatics
 - 🌱 I’m currently learning R, statistics and @dotnet/maui (or maybe @flutter/flutter)
-- 📫 How to reach me: justype.net@outlook.com (Small Tools) chengz63@mcmaster.ca (Bioinformatics)
+- 📫 How to reach me: chengz63@mcmaster.ca (Bioinformatics)
 - 📽️ YouTube Channel: [@JustypeNet](https://www.youtube.com/@JustypeNet), BiliBili: [Justype](https://space.bilibili.com/474052916)
